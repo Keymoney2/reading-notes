@@ -1,0 +1,40 @@
+# CSS
+
+Css are style sheets that help you make your website look bettr
+
+#  things i learned 
+
+1. I leard what Css is and how int can be used to help my website look better and more presentable
+
+2. I learnd how to add Css to my web site 
+
+3. Also i learned about css coloers and different was to write the coloer i need.
+
+# things i wolud like to learn more abount
+
+i thin i have css down and figered out about how to use it to help my website for example
+
+div id="carouselExample" class="carousel slide">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+<body>
+  <img src="image.png" alt="">
+</body>
