@@ -37,3 +37,4 @@ Less than**: It's the opposite of _greater than_ where it checks if the number o
 Greater than or equal to: similar to _greater than_ but it checks if the number on the left is greater than or equal to the number on the right `>=`
 
 Greater than or equal to: similar to _less than_ but it checks if the number on the left is less than or equal to the number on the right `<=`
+
