@@ -15,3 +15,7 @@ There are many ways to write and select the colors
 we can change the color for many things like
 - Text
 - Background 
+
+### Things I want to know more about
+ I need to learn more about is get better at changing colors in hex code and rgb values
+ 
